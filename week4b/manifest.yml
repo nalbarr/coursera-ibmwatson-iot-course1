@@ -1,0 +1,13 @@
+---
+
+applications:
+
+- name: ids507-iot-week4
+
+  instances: 1
+
+  memory: 256M
+
+services:
+
+- Internet of Things Platform-n1
